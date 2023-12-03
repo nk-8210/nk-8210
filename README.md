@@ -78,6 +78,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/nk-8210/nk-8210/output/snake.svg" alt="Snake animation" />
 
 ###
