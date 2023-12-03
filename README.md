@@ -82,7 +82,7 @@
 
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/nk-8210?theme=dark&font=Noto%20Naskh%20Arabic&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/nk-8210?theme=dark&hide_border=false&border_radius=5&font=Noto%20Naskh%20Arabic&ext=heatmap" />
 </div>
 
 
