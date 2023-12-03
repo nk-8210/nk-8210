@@ -74,7 +74,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=nk-8210&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="220" alt="streak graph"  />
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/nk-8210?theme=nord&font=Duru%20Sans&ext=heatmap)
+ <img src=" ![LeetCode Stats](https://leetcard.jacoblin.cool/nk-8210?theme=nord&font=Duru%20Sans&ext=heatmap)" />
 </div>
 
 ###
