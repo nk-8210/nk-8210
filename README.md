@@ -64,8 +64,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" height="40" alt="gcc logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/nk-8210?theme=unicorn&font=Encode%20Sans%20SC&ext=heatmap)
 </div>
 
 ###
@@ -76,6 +74,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=nk-8210&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="220" alt="streak graph"  />
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/nk-8210?theme=nord&font=Duru%20Sans&ext=heatmap)
 </div>
 
 ###
