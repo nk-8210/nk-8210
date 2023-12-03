@@ -64,6 +64,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" height="40" alt="gcc logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/nk-8210?theme=unicorn&font=Encode%20Sans%20SC&ext=heatmap)
 </div>
 
 ###
