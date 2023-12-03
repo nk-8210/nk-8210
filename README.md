@@ -68,7 +68,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+
 
 ###
 
@@ -78,10 +78,11 @@
 
 ###
 
+<h3 align="left">🔥  ![LeetCode Stats] :</h3>
 
 
 <div align="center">
-  <img src="![LeetCode Stats](https://leetcard.jacoblin.cool/nk-8210?theme=dark&font=Noto%20Naskh%20Arabic&ext=heatmap)" />
+  <img src="(https://leetcard.jacoblin.cool/nk-8210?theme=dark&font=Noto%20Naskh%20Arabic&ext=heatmap)" />
 </div>
 
 
