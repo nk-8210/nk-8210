@@ -81,7 +81,7 @@
 <h3 align="left">🔥  ![Leetcode Stats ]:</h3>
 
 <div align="center">
-  (https://leetcode-stats-six.vercel.app/?username=nk-8210)](https://github.com/nk-8210/leetcode-stats)
+  <img src=" (https://leetcode-stats-six.vercel.app/?username=nk-8210)](https://github.com/nk-8210/leetcode-stats)"/>
 </div>
 
 
