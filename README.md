@@ -78,9 +78,9 @@
 
 ###
 
-<h3 align="left">🔥  ![LeetCode Stats :</h3>
+<h3 align="left">🔥  ![Leetcode Stats }:</h3>
 
-<div align="center">
+<div align="centre">
   <img src="https://leetcard.jacoblin.cool/nk-8210?theme=nord&font=Duru%20Sans&ext=heatmap" />
 </div> 
 
