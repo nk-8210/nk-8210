@@ -81,7 +81,7 @@
 
 
 <div align="center">
-  <img src="[![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=KnlnKS)](https://github.com/KnlnKS/leetcode-stats)"/>
+  <img src="![LeetCode Stats](https://leetcard.jacoblin.cool/nk-8210?theme=dark&font=Noto%20Naskh%20Arabic&ext=heatmap)" />
 </div>
 
 
