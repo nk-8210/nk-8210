@@ -78,10 +78,10 @@
 
 ###
 
-<h3 align="left">🔥  ![Leetcode Stats ]:</h3>
+
 
 <div align="center">
-  <img src=" (https://leetcode-stats-six.vercel.app/?username=nk-8210)](https://github.com/nk-8210/leetcode-stats)"/>
+  <img src="[![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=KnlnKS)](https://github.com/KnlnKS/leetcode-stats)"/>
 </div>
 
 
