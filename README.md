@@ -81,7 +81,7 @@
 <h3 align="left">🔥  ![LeetCode Stats] :</h3>
 
 
-<div align="center">
+<div align="left">
   <img src="https://leetcard.jacoblin.cool/nk-8210?theme=dark&hide_border=false&border_radius=5&font=Noto%20Naskh%20Arabic&ext=heatmap" />
 </div>
 
