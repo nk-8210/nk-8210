@@ -90,7 +90,7 @@
 
 
 <div align="center">
-  <img src="https://geeks-for-geeks.jacoblin.cool/nirajbvpu?theme=dark&hide_border=false&border_radius=5&font=Noto%20Naskh%20Arabic&ext=heatmap" />
+  <img src="https://leetcode-stats-six.vercel.app/?username=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats" />
 </div>
 
 
