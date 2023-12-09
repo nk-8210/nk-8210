@@ -86,7 +86,7 @@
     </td>
     <td align="center" style="width: 50%;">
       <h3>🔥 GFG Stats :</h3>
-      <img src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=nirajbvpu&theme=dark" />
+      <img src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=nirajbvpu&theme=dark&hide_border=false&border_radius=5&font=Noto%20Naskh%20Arabic&ext=heatmap" />
     </td>
   </tr>
 </table>
