@@ -89,8 +89,9 @@
 <h3 align="left">🔥 GFG stats :</h3>
 
 <div align="center">
-  <img src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=nirajbvpu" />
+  <img src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=nirajbvpu&theme=dark" />
 </div>
+
 
 
 
