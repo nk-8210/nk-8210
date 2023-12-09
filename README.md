@@ -90,7 +90,7 @@
 
 
 <div align="center">
-  <img src="https://leetcode-stats-six.vercel.app/?username=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats" />
+  <img src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=<nirajbvpu>)](<https://auth.geeksforgeeks.org/user/nirajbvpu> />
 </div>
 
 
