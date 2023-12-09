@@ -86,8 +86,12 @@
 </div>
 
 
-[![Narendra's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=<nirajbvpu>)](https://github.com/napiyo/geeksForGeeksStatsAPI)
+<h3 align="left">🔥  ![GFG stats] :</h3>
 
+
+<div align="center">
+  <img src="https://geeks-for-geeks.jacoblin.cool/nirajbvpu?theme=dark&hide_border=false&border_radius=5&font=Noto%20Naskh%20Arabic&ext=heatmap" />
+</div>
 
 
 ###
