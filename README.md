@@ -78,18 +78,19 @@
 
 ###
 
-<table style="width: 100%;">
-  <tr>
-    <td align="center" style="width: 50%;">
-      <h3>🔥 LeetCode Stats :</h3>
-      <img src="https://leetcard.jacoblin.cool/nk-8210?theme=dark&hide_border=false&border_radius=5&font=Noto%20Naskh%20Arabic&ext=heatmap" />
-    </td>
-    <td align="center" style="width: 50%;">
-      <h3>🔥 GFG Stats :</h3>
-      <img src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=nirajbvpu&theme=dark&hide_border=false&border_radius=5&font=Noto%20Naskh%20Arabic&ext=heatmap" />
-    </td>
-  </tr>
-</table>
+<h3 align="center">🔥  ![LeetCode Stats] :</h3>
+
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/nk-8210?theme=dark&hide_border=false&border_radius=5&font=Noto%20Naskh%20Arabic&ext=heatmap" />
+</div>
+
+
+<h3 align="center">🔥 GFG stats :</h3>
+
+<div align="center">
+  <img src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=nirajbvpu&theme=dark" />
+</div>
 
 
 ###
